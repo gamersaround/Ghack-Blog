@@ -1,6 +1,6 @@
 ---
 title: Comment mettre en place des emails automatisés sans budget
-date: 2017-04-31
+date: 2020-07-11T13:30:00+00:00
 hero: "/images/email-automation.jpg"
 excerpt: Je croise beaucoup d'entreprises et je me rends compte qu'ils font trop de
   choses à la main.
