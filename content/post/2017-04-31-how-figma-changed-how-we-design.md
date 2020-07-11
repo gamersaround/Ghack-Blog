@@ -5,8 +5,7 @@ hero: "/images/email-automation.jpg"
 excerpt: Je croise beaucoup d'entreprises et je me rends compte qu'ils font trop de
   choses à la main.
 timeToRead: 6
-authors:
-- martin perret
+authors: []
 
 ---
 **Mettre en place un système d'emailing automatique** n'est pas difficile et très gratifiant en tant que marketeur, chef d'entreprise ou dirigeant de startup.
