@@ -1,19 +1,14 @@
 ---
-title: Thiago Costa
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/thiago-costa.jpg
+title: Martin Perret
+bio: 'Growth Hacker & CEO @misapret.com
+
+'
+avatar: "/images/20150416-6751-2-2.jpg"
 featured: false
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: Linkedin
+  url: https://linkedin.com/martin-perret
+- title: github
+  url: https://github.com
+
 ---
