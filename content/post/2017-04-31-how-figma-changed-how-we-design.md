@@ -6,7 +6,7 @@ excerpt: Je croise beaucoup d'entreprises et je me rends compte qu'ils font trop
   choses à la main.
 timeToRead: 8
 authors:
-- Dennis Brotzky
+- martin perret
 
 ---
 **Mettre en place un système d'emailing automatique** n'est pas difficile et très gratifiant en tant que marketeur, chef d'entreprise ou dirigeant de startup.
