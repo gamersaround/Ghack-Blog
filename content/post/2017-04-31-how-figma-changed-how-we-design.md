@@ -4,7 +4,7 @@ date: 2017-04-31
 hero: "/images/email-automation.jpg"
 excerpt: Je croise beaucoup d'entreprises et je me rends compte qu'ils font trop de
   choses à la main.
-timeToRead: 8
+timeToRead: 6
 authors:
 - martin perret
 
