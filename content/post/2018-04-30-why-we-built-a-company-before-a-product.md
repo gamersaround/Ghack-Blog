@@ -1,5 +1,5 @@
 ---
-title: Test
+title: 'Test '
 date: 2018-04-30
 hero: "/images/hero-6.jpg"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
